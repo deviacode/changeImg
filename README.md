@@ -5,5 +5,5 @@
 
 <img src="https://github.com/deviacode/changeImg/blob/master/screenshot.jpg"/>
 
-<h3><a href="https://deviacode.github.io/changeImg">Prueba el demo</a></h3>
+<h3><a href="https://deviacode.github.io/changeImg" target="_blank">Prueba el demo</a></h3>
 
